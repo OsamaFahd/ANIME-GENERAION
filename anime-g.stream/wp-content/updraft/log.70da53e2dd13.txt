@@ -1,0 +1,334 @@
+0000.001 (0) Opened log file at time: Tue, 18 Jun 2019 19:52:00 +0000 on https://anime-g.stream
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.15 WP: 5.2.1 PHP: 7.0.33 (cgi-fcgi, Linux web6.uk.cloudlogin.co 4.4.180-xeon-hst #4 SMP Sat May 18 14:57:32 UTC 2019 x86_64) MySQL: 5.7.23 WPLANG: ar Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 11.9M | 2M) multisite: N openssl: OpenSSL 1.0.2k-fips  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.003 (0) Free space on disk containing Updraft's temporary directory: 2768128.3 MB
+0000.052 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB: 1 (schedule: daily)
+0000.073 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.076 (0) Set semaphore last lock (fd) time to 2019-06-18 19:52:00
+0000.077 (0) Semaphore lock (fd) complete
+0000.082 (0) Backup run: resumption=0, nonce=70da53e2dd13, file_nonce=70da53e2dd13 begun at=1560887520 (0s ago), job type=backup
+0000.084 (0) Scheduling a resumption (1) after 300 seconds (1560887820) in case this run gets aborted
+0000.182 (0) Checking if we have a zip executable available
+0000.183 (0) Testing: /usr/bin/zip
+0000.202 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.204 (0) Output: adding: binziptest/subdir1/        (in=0) (out=0) (stored 0%)
+0000.205 (0) Output: adding: binziptest/subdir1/subdir2/        (in=0) (out=0) (stored 0%)
+0000.206 (0) Output: adding: binziptest/subdir1/subdir2/test.html        (in=131) (out=107) (deflated 18%)
+0000.207 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.226 (0) Output: adding: binziptest/subdir1/subdir2/test2.html        (in=138) (out=113) (deflated 18%)
+0000.228 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.246 (0) Working binary zip found: /usr/bin/zip
+0000.248 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.249 (0) Creation of backups of directories: beginning
+0000.258 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0004.884 (0) Total entities for the zip file: 526 directories, 4061 files (0 skipped as non-modified), 63.3 MB
+0004.886 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0004.966 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: size is now: 0.10 MB
+0005.001 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 100 files added (on-disk size: 113.9 KB)
+0005.034 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 200 files added (on-disk size: 113.9 KB)
+0005.066 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 300 files added (on-disk size: 113.9 KB)
+0005.092 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 400 files added (on-disk size: 113.9 KB)
+0005.121 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 500 files added (on-disk size: 113.9 KB)
+0005.124 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (14.1 MB, 4061 files batched, 501 (502) added so far); re-opening (prior size: 113.9 KB)
+0007.803 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: size is now: 4.70 MB
+0007.834 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 600 files added (on-disk size: 4784.8 KB)
+0007.875 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 700 files added (on-disk size: 4784.8 KB)
+0007.921 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 800 files added (on-disk size: 4784.8 KB)
+0007.954 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 900 files added (on-disk size: 4784.8 KB)
+0007.991 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 1000 files added (on-disk size: 4784.8 KB)
+0007.993 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.6 MB, 4061 files batched, 501 (1003) added so far); re-opening (prior size: 4784.8 KB)
+0010.074 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: size is now: 6.80 MB
+0010.131 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 1100 files added (on-disk size: 6914.1 KB)
+0010.161 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 1200 files added (on-disk size: 6914.1 KB)
+0010.196 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 1300 files added (on-disk size: 6914.1 KB)
+0010.226 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 1400 files added (on-disk size: 6914.1 KB)
+0010.256 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 1500 files added (on-disk size: 6914.1 KB)
+0010.258 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7.9 MB, 4061 files batched, 501 (1504) added so far); re-opening (prior size: 6914.1 KB)
+0013.453 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: size is now: 9.60 MB
+0013.481 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 1600 files added (on-disk size: 9844.9 KB)
+0013.507 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 1700 files added (on-disk size: 9844.9 KB)
+0013.533 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 1800 files added (on-disk size: 9844.9 KB)
+0013.559 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 1900 files added (on-disk size: 9844.9 KB)
+0013.588 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 2000 files added (on-disk size: 9844.9 KB)
+0013.591 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.3 MB, 4061 files batched, 501 (2005) added so far); re-opening (prior size: 9844.9 KB)
+0015.703 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 2100 files added (on-disk size: 11400.1 KB)
+0015.729 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 2200 files added (on-disk size: 11400.1 KB)
+0015.757 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 2300 files added (on-disk size: 11400.1 KB)
+0015.785 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 2400 files added (on-disk size: 11400.1 KB)
+0015.818 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 2500 files added (on-disk size: 11400.1 KB)
+0015.821 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.3 MB, 4061 files batched, 501 (2506) added so far); re-opening (prior size: 11400.1 KB)
+0016.834 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 2600 files added (on-disk size: 11979.9 KB)
+0016.860 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 2700 files added (on-disk size: 11979.9 KB)
+0016.888 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 2800 files added (on-disk size: 11979.9 KB)
+0016.913 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 2900 files added (on-disk size: 11979.9 KB)
+0016.941 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 3000 files added (on-disk size: 11979.9 KB)
+0016.944 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (15.3 MB, 4061 files batched, 501 (3007) added so far); re-opening (prior size: 11979.9 KB)
+0020.091 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: size is now: 16.20 MB
+0020.121 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 3100 files added (on-disk size: 16545 KB)
+0020.149 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 3200 files added (on-disk size: 16545 KB)
+0020.173 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 3300 files added (on-disk size: 16545 KB)
+0020.196 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 3400 files added (on-disk size: 16545 KB)
+0020.223 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 3500 files added (on-disk size: 16545 KB)
+0020.226 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.8 MB, 4061 files batched, 501 (3508) added so far); re-opening (prior size: 16545 KB)
+0021.740 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 3600 files added (on-disk size: 17236 KB)
+0021.764 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 3700 files added (on-disk size: 17236 KB)
+0021.789 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 3800 files added (on-disk size: 17236 KB)
+0021.815 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 3900 files added (on-disk size: 17236 KB)
+0021.840 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip.tmp: 4000 files added (on-disk size: 17236 KB)
+0021.843 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (11.7 MB, 4061 files batched, 501 (4009) added so far); re-opening (prior size: 17236 KB)
+0025.761 (0) Created plugins zip (0) - 20736.3 KB in 25.5 s (813.2 KB/s) (sha1: 87dfd953c60c2c62aa12c6edb25812b9019a6452, sha256: 0d8b0d208efde866b8aff284bcfcd7478c15bd33d73b1f9bcbe135e0bd154a3a)
+0025.765 (0) Beginning creation of dump of themes (split every: 400 MB)
+0025.922 (0) Total entities for the zip file: 33 directories, 164 files (0 skipped as non-modified), 3.4 MB
+0025.951 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0026.778 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-themes.zip.tmp: size is now: 2.10 MB
+0026.845 (0) Created themes zip (0) - 2191 KB in 1.1 s (2034.3 KB/s) (sha1: a7cf0059041d1764e6d7e349a28a8716534dd579, sha256: 851da8fc2f251045ac3ecbf5f5d250c5ef973c473628dcfa6d4a1a074f5562c8)
+0026.852 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0026.854 (0) Looking for candidates to backup in: /home/www/anime-g.stream/wp-content/uploads
+0026.881 (0) finding files: form-maker-frontend: adding to list (1)
+0026.882 (0) finding files: wpdiscuz: adding to list (2)
+0026.883 (0) finding files: 2019: adding to list (3)
+0026.884 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0027.481 (0) Total entities for the zip file: 10 directories, 614 files (0 skipped as non-modified), 55.8 MB
+0027.518 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0027.547 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0027.573 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25.1 MB, 614 files batched, 276 (276) added so far); re-opening (prior size: 0 KB)
+0033.150 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-uploads.zip.tmp: size is now: 24.90 MB
+0033.153 (0) A useful amount of data was added after this amount of zip processing: 6.3 s (normalised: 6.3 s, rate: 4068 KB/s)
+0033.162 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-uploads.zip.tmp: 300 files added (on-disk size: 25457.9 KB)
+0033.191 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-uploads.zip.tmp: 400 files added (on-disk size: 25457.9 KB)
+0033.226 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-uploads.zip.tmp: 500 files added (on-disk size: 25457.9 KB)
+0033.255 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (29.4 MB, 614 files batched, 315 (591) added so far); re-opening (prior size: 25457.9 KB)
+0040.922 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-uploads.zip.tmp: size is now: 54.30 MB
+0040.926 (0) A useful amount of data was added after this amount of zip processing: 8.1 s (normalised: 6.9 s, rate: 3723.6 KB/s)
+0040.931 (0) Zip: backup_2019-06-18-2252_Anime_generation___70da53e2dd13-uploads.zip.tmp: 600 files added (on-disk size: 55618.7 KB)
+0043.940 (0) Created uploads zip (0) - 56965.8 KB in 17.1 s (3340.6 KB/s) (sha1: 49d622a2d7ffdd2724f89937c7373a1b17fcf941, sha256: 92070eec8ce6df8a51c90421c4bcf80a13c233943ecabb4c7cb777369b9ca54a)
+0043.944 (0) Beginning backup of other directories found in the content directory (index: 0)
+0043.945 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0043.945 (0) Looking for candidates to backup in: /home/www/anime-g.stream/wp-content
+0043.946 (0) finding files: mu-plugins: adding to list (1)
+0043.947 (0) finding files: index.php: adding to list (2)
+0043.948 (0) finding files: plugins: skipping: this is the plugins directory
+0043.948 (0) finding files: languages: adding to list (3)
+0043.949 (0) finding files: uploads: skipping: this is the uploads directory
+0043.949 (0) finding files: themes: skipping: this is the themes directory
+0043.950 (0) finding files: updraft: skipping: this is the updraft directory
+0043.951 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0043.951 (0) finding files: upgrade: skipping: excluded by options
+0043.962 (0) Total entities for the zip file: 4 directories, 37 files (0 skipped as non-modified), 2.8 MB
+0044.525 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-others.zip.tmp: size is now: 0.70 MB
+0044.562 (0) Created others zip (0) - 760.5 KB in 0.6 s (1250.5 KB/s) (sha1: d78b310e23884646365fc587ec82a9742bec5fed, sha256: b0ebd3dc9ffbc7100dd62e04b08110b0a9ec727e2632becefb4e69d25f6c5576)
+0044.570 (0) Saving backup status to database (elements: 8)
+0044.573 (0) Beginning creation of database dump (WordPress DB)
+0044.576 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0044.703 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1207 bytes total)
+0044.708 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0044.726 (0) Table wp_options: Total expected rows (approximate): 409
+0044.821 (0) Table wp_options: Total rows added: 405 in 0.09 seconds
+0044.827 (0) Table wp_options: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_options.table.gz - 254.8 KB)
+0044.832 (0) Table wp_users: Total expected rows (approximate): 1
+0044.836 (0) Table wp_users: Total rows added: 1 in 0.00 seconds
+0044.837 (0) Table wp_users: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_users.table.gz - 0.6 KB)
+0044.842 (0) Table wp_usermeta: Total expected rows (approximate): 54
+0044.847 (0) Table wp_usermeta: Total rows added: 54 in 0.00 seconds
+0044.849 (0) Table wp_usermeta: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_usermeta.table.gz - 3.3 KB)
+0044.855 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0044.858 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0044.860 (0) Table wp_commentmeta: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0044.866 (0) Table wp_comments: Total expected rows (approximate): 0
+0044.869 (0) Table wp_comments: Total rows added: 0 in 0.00 seconds
+0044.871 (0) Table wp_comments: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_comments.table.gz - 0.5 KB)
+0044.877 (0) Table wp_links: Total expected rows (approximate): 0
+0044.882 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0044.883 (0) Table wp_links: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_links.table.gz - 0.4 KB)
+0044.890 (0) Table wp_postmeta: Total expected rows (approximate): 10573
+0045.061 (0) Table wp_postmeta: binary mysqldump finished (writes: 32) in 0.17 seconds
+0045.065 (0) Table wp_postmeta: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_postmeta.table.gz - 104.8 KB)
+0045.071 (0) Table wp_posts: Total expected rows (approximate): 2526
+0045.216 (0) Table wp_posts: Total rows added: 2526 in 0.14 seconds
+0045.220 (0) Table wp_posts: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_posts.table.gz - 123.1 KB)
+0045.229 (0) Table wp_term_relationships: Total expected rows (approximate): 1053
+0045.240 (0) Table wp_term_relationships: Total rows added: 1053 in 0.01 seconds
+0045.242 (0) Table wp_term_relationships: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_term_relationships.table.gz - 3 KB)
+0045.250 (0) Table wp_term_taxonomy: Total expected rows (approximate): 87
+0045.255 (0) Table wp_term_taxonomy: Total rows added: 87 in 0.00 seconds
+0045.258 (0) Table wp_term_taxonomy: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_term_taxonomy.table.gz - 1 KB)
+0045.265 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0045.268 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0045.271 (0) Table wp_termmeta: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_termmeta.table.gz - 0.4 KB)
+0045.279 (0) Table wp_terms: Total expected rows (approximate): 87
+0045.283 (0) Table wp_terms: Total rows added: 87 in 0.00 seconds
+0045.285 (0) Table wp_terms: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_terms.table.gz - 2.3 KB)
+0045.302 (0) Table wp_yoast_seo_links: Total expected rows (approximate): 42
+0045.309 (0) Table wp_yoast_seo_links: Total rows added: 42 in 0.00 seconds
+0045.311 (0) Table wp_yoast_seo_links: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_yoast_seo_links.table.gz - 1.4 KB)
+0045.318 (0) Table wp_yoast_seo_meta: Total expected rows (approximate): 934
+0045.327 (0) Table wp_yoast_seo_meta: Total rows added: 934 in 0.01 seconds
+0045.329 (0) Table wp_yoast_seo_meta: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_yoast_seo_meta.table.gz - 2.6 KB)
+0045.336 (0) Table wp_formmaker: Total expected rows (approximate): 6
+0045.343 (0) Table wp_formmaker: Total rows added: 6 in 0.01 seconds
+0045.346 (0) Table wp_formmaker: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_formmaker.table.gz - 4.7 KB)
+0045.352 (0) Table wp_formmaker_backup: Total expected rows (approximate): 1
+0045.357 (0) Table wp_formmaker_backup: Total rows added: 1 in 0.00 seconds
+0045.359 (0) Table wp_formmaker_backup: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_formmaker_backup.table.gz - 2 KB)
+0045.365 (0) Table wp_formmaker_blocked: Total expected rows (approximate): 0
+0045.368 (0) Table wp_formmaker_blocked: Total rows added: 0 in 0.00 seconds
+0045.369 (0) Table wp_formmaker_blocked: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_formmaker_blocked.table.gz - 0.3 KB)
+0045.376 (0) Table wp_formmaker_display_options: Total expected rows (approximate): 1
+0045.380 (0) Table wp_formmaker_display_options: Total rows added: 1 in 0.00 seconds
+0045.381 (0) Table wp_formmaker_display_options: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_formmaker_display_options.table.gz - 0.7 KB)
+0045.387 (0) Table wp_formmaker_groups: Total expected rows (approximate): 0
+0045.389 (0) Table wp_formmaker_groups: Total rows added: 0 in 0.00 seconds
+0045.390 (0) Table wp_formmaker_groups: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_formmaker_groups.table.gz - 0.3 KB)
+0045.418 (0) Table wp_formmaker_query: Total expected rows (approximate): 0
+0045.421 (0) Table wp_formmaker_query: Total rows added: 0 in 0.00 seconds
+0045.423 (0) Table wp_formmaker_query: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_formmaker_query.table.gz - 0.3 KB)
+0045.431 (0) Table wp_formmaker_sessions: Total expected rows (approximate): 0
+0045.434 (0) Table wp_formmaker_sessions: Total rows added: 0 in 0.00 seconds
+0045.436 (0) Table wp_formmaker_sessions: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_formmaker_sessions.table.gz - 0.5 KB)
+0045.443 (0) Table wp_formmaker_submits: Total expected rows (approximate): 0
+0045.445 (0) Table wp_formmaker_submits: Total rows added: 0 in 0.00 seconds
+0045.447 (0) Table wp_formmaker_submits: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_formmaker_submits.table.gz - 0.4 KB)
+0045.452 (0) Table wp_formmaker_themes: Total expected rows (approximate): 15
+0045.459 (0) Table wp_formmaker_themes: Total rows added: 15 in 0.01 seconds
+0045.461 (0) Table wp_formmaker_themes: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_formmaker_themes.table.gz - 6.6 KB)
+0045.467 (0) Table wp_formmaker_views: Total expected rows (approximate): 1
+0045.469 (0) Table wp_formmaker_views: Total rows added: 1 in 0.00 seconds
+0045.470 (0) Table wp_formmaker_views: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_formmaker_views.table.gz - 0.3 KB)
+0045.476 (0) Table wp_nf3_action_meta: Total expected rows (approximate): 78
+0045.480 (0) Table wp_nf3_action_meta: Total rows added: 78 in 0.00 seconds
+0045.482 (0) Table wp_nf3_action_meta: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_nf3_action_meta.table.gz - 1.4 KB)
+0045.487 (0) Table wp_nf3_actions: Total expected rows (approximate): 4
+0045.490 (0) Table wp_nf3_actions: Total rows added: 4 in 0.00 seconds
+0045.492 (0) Table wp_nf3_actions: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_nf3_actions.table.gz - 0.5 KB)
+0045.498 (0) Table wp_nf3_chunks: Total expected rows (approximate): 0
+0045.501 (0) Table wp_nf3_chunks: Total rows added: 0 in 0.00 seconds
+0045.503 (0) Table wp_nf3_chunks: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_nf3_chunks.table.gz - 0.3 KB)
+0045.509 (0) Table wp_nf3_field_meta: Total expected rows (approximate): 0
+0045.512 (0) Table wp_nf3_field_meta: Total rows added: 0 in 0.00 seconds
+0045.514 (0) Table wp_nf3_field_meta: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_nf3_field_meta.table.gz - 0.3 KB)
+0045.522 (0) Table wp_nf3_fields: Total expected rows (approximate): 4
+0045.525 (0) Table wp_nf3_fields: Total rows added: 4 in 0.00 seconds
+0045.527 (0) Table wp_nf3_fields: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_nf3_fields.table.gz - 0.5 KB)
+0045.534 (0) Table wp_nf3_form_meta: Total expected rows (approximate): 98
+0045.538 (0) Table wp_nf3_form_meta: Total rows added: 98 in 0.00 seconds
+0045.540 (0) Table wp_nf3_form_meta: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_nf3_form_meta.table.gz - 1.5 KB)
+0045.546 (0) Table wp_nf3_forms: Total expected rows (approximate): 1
+0045.550 (0) Table wp_nf3_forms: Total rows added: 1 in 0.00 seconds
+0045.552 (0) Table wp_nf3_forms: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_nf3_forms.table.gz - 0.5 KB)
+0045.559 (0) Table wp_nf3_object_meta: Total expected rows (approximate): 0
+0045.562 (0) Table wp_nf3_object_meta: Total rows added: 0 in 0.00 seconds
+0045.563 (0) Table wp_nf3_object_meta: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_nf3_object_meta.table.gz - 0.3 KB)
+0045.570 (0) Table wp_nf3_objects: Total expected rows (approximate): 0
+0045.573 (0) Table wp_nf3_objects: Total rows added: 0 in 0.00 seconds
+0045.575 (0) Table wp_nf3_objects: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_nf3_objects.table.gz - 0.3 KB)
+0045.582 (0) Table wp_nf3_relationships: Total expected rows (approximate): 0
+0045.585 (0) Table wp_nf3_relationships: Total rows added: 0 in 0.00 seconds
+0045.586 (0) Table wp_nf3_relationships: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_nf3_relationships.table.gz - 0.4 KB)
+0045.592 (0) Table wp_nf3_upgrades: Total expected rows (approximate): 1
+0045.596 (0) Table wp_nf3_upgrades: Total rows added: 1 in 0.00 seconds
+0045.598 (0) Table wp_nf3_upgrades: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_nf3_upgrades.table.gz - 2.5 KB)
+0045.604 (0) Table wp_podsrel: Total expected rows (approximate): 0
+0045.606 (0) Table wp_podsrel: Total rows added: 0 in 0.00 seconds
+0045.608 (0) Table wp_podsrel: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_podsrel.table.gz - 0.4 KB)
+0045.614 (0) Table wp_ratings_fansub: Total expected rows (approximate): 0
+0045.616 (0) Table wp_ratings_fansub: Total rows added: 0 in 0.00 seconds
+0045.618 (0) Table wp_ratings_fansub: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_ratings_fansub.table.gz - 0.4 KB)
+0045.624 (0) Table wp_ratings_posts_fansub: Total expected rows (approximate): 0
+0045.627 (0) Table wp_ratings_posts_fansub: Total rows added: 0 in 0.00 seconds
+0045.628 (0) Table wp_ratings_posts_fansub: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_ratings_posts_fansub.table.gz - 0.3 KB)
+0045.634 (0) Table wp_searchmeter: Total expected rows (approximate): 1
+0045.637 (0) Table wp_searchmeter: Total rows added: 1 in 0.00 seconds
+0045.639 (0) Table wp_searchmeter: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_searchmeter.table.gz - 0.3 KB)
+0045.645 (0) Table wp_searchmeter_recent: Total expected rows (approximate): 4
+0045.648 (0) Table wp_searchmeter_recent: Total rows added: 4 in 0.00 seconds
+0045.649 (0) Table wp_searchmeter_recent: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_searchmeter_recent.table.gz - 0.4 KB)
+0045.655 (0) Table wp_wc_avatars_cache: Total expected rows (approximate): 0
+0045.657 (0) Table wp_wc_avatars_cache: Total rows added: 0 in 0.00 seconds
+0045.658 (0) Table wp_wc_avatars_cache: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_wc_avatars_cache.table.gz - 0.4 KB)
+0045.665 (0) Table wp_wc_comments_subscription: Total expected rows (approximate): 0
+0045.667 (0) Table wp_wc_comments_subscription: Total rows added: 0 in 0.00 seconds
+0045.669 (0) Table wp_wc_comments_subscription: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_wc_comments_subscription.table.gz - 0.4 KB)
+0045.677 (0) Table wp_wc_follow_users: Total expected rows (approximate): 0
+0045.681 (0) Table wp_wc_follow_users: Total rows added: 0 in 0.00 seconds
+0045.682 (0) Table wp_wc_follow_users: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_wc_follow_users.table.gz - 0.5 KB)
+0045.689 (0) Table wp_wc_phrases: Total expected rows (approximate): 0
+0045.691 (0) Table wp_wc_phrases: Total rows added: 0 in 0.00 seconds
+0045.693 (0) Table wp_wc_phrases: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_wc_phrases.table.gz - 0.3 KB)
+0045.699 (0) Table wp_wc_users_voted: Total expected rows (approximate): 0
+0045.702 (0) Table wp_wc_users_voted: Total rows added: 0 in 0.00 seconds
+0045.703 (0) Table wp_wc_users_voted: finishing file (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_wc_users_voted.table.gz - 0.3 KB)
+0045.709 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_options.table.gz (1/45): adding to final database dump
+0045.810 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_users.table.gz (2/45): adding to final database dump
+0045.812 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_usermeta.table.gz (3/45): adding to final database dump
+0045.816 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_commentmeta.table.gz (4/45): adding to final database dump
+0045.818 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_comments.table.gz (5/45): adding to final database dump
+0045.820 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_links.table.gz (6/45): adding to final database dump
+0045.822 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_postmeta.table.gz (7/45): adding to final database dump
+0045.867 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_posts.table.gz (8/45): adding to final database dump
+0045.910 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_term_relationships.table.gz (9/45): adding to final database dump
+0045.913 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_term_taxonomy.table.gz (10/45): adding to final database dump
+0045.916 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_termmeta.table.gz (11/45): adding to final database dump
+0045.917 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_terms.table.gz (12/45): adding to final database dump
+0045.919 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_yoast_seo_links.table.gz (13/45): adding to final database dump
+0045.921 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_yoast_seo_meta.table.gz (14/45): adding to final database dump
+0045.925 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_formmaker.table.gz (15/45): adding to final database dump
+0045.928 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_formmaker_backup.table.gz (16/45): adding to final database dump
+0045.931 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_formmaker_blocked.table.gz (17/45): adding to final database dump
+0045.933 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_formmaker_display_options.table.gz (18/45): adding to final database dump
+0045.934 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_formmaker_groups.table.gz (19/45): adding to final database dump
+0045.936 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_formmaker_query.table.gz (20/45): adding to final database dump
+0045.937 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_formmaker_sessions.table.gz (21/45): adding to final database dump
+0045.939 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_formmaker_submits.table.gz (22/45): adding to final database dump
+0045.941 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_formmaker_themes.table.gz (23/45): adding to final database dump
+0045.946 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_formmaker_views.table.gz (24/45): adding to final database dump
+0045.947 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_nf3_action_meta.table.gz (25/45): adding to final database dump
+0045.949 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_nf3_actions.table.gz (26/45): adding to final database dump
+0045.951 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_nf3_chunks.table.gz (27/45): adding to final database dump
+0045.953 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_nf3_field_meta.table.gz (28/45): adding to final database dump
+0045.955 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_nf3_fields.table.gz (29/45): adding to final database dump
+0045.957 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_nf3_form_meta.table.gz (30/45): adding to final database dump
+0045.959 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_nf3_forms.table.gz (31/45): adding to final database dump
+0045.961 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_nf3_object_meta.table.gz (32/45): adding to final database dump
+0045.963 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_nf3_objects.table.gz (33/45): adding to final database dump
+0045.965 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_nf3_relationships.table.gz (34/45): adding to final database dump
+0045.968 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_nf3_upgrades.table.gz (35/45): adding to final database dump
+0045.971 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_podsrel.table.gz (36/45): adding to final database dump
+0045.974 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_ratings_fansub.table.gz (37/45): adding to final database dump
+0045.976 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_ratings_posts_fansub.table.gz (38/45): adding to final database dump
+0045.978 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_searchmeter.table.gz (39/45): adding to final database dump
+0045.980 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_searchmeter_recent.table.gz (40/45): adding to final database dump
+0045.982 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_wc_avatars_cache.table.gz (41/45): adding to final database dump
+0045.984 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_wc_comments_subscription.table.gz (42/45): adding to final database dump
+0045.987 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_wc_follow_users.table.gz (43/45): adding to final database dump
+0045.990 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_wc_phrases.table.gz (44/45): adding to final database dump
+0045.992 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db-table-wp_wc_users_voted.table.gz (45/45): adding to final database dump
+0046.001 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db.gz: finished writing out complete database file (496 KB)
+0046.042 (0) Total database tables backed up: 45 (backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db.gz, size: 528060, sha256)
+0046.051 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0046.052 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0046.053 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0046.054 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-others.zip: others: This file has not yet been successfully uploaded: will queue
+0046.055 (0) backup_2019-06-18-2252_Anime_generation___70da53e2dd13-db.gz: db: This file has not yet been successfully uploaded: will queue
+0046.056 (0) Saving backup history. Total backup size: 79.3 MB
+0046.060 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0046.064 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0046.066 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-13d78c63f41a32b470cf03f2a455aff5)
+0046.122 (0) Google Drive: ERROR: Have not yet obtained an access token from Google (has the user authorised?) (cURL error 7: ) (http_request_failed)
+0046.123 (0) An error condition has occurred for the first time during this job
+0046.126 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=5
+0046.128 (0) Number of backup sets in history: 1; groups (db): 1
+0046.130 (0) Examining (for databases) backup set with group_id=0, nonce=70da53e2dd13, datestamp=1560887520 (Jun 18 2019 19:52:00)
+0046.131 (0) This backup set is the backup set just made, so will not be deleted.
+0046.131 (0) Number of backup sets in history: 1; groups (files): 1
+0046.132 (0) Examining (for files) backup set with nonce=70da53e2dd13, datestamp=1560887520 (Jun 18 2019 19:52:00)
+0046.132 (0) This backup set is the backup set just made, so will not be deleted.
+0046.133 (0) This backup set is the backup set just made, so will not be deleted.
+0046.133 (0) This backup set is the backup set just made, so will not be deleted.
+0046.133 (0) This backup set is the backup set just made, so will not be deleted.
+0046.133 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0046.134 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0046.139 (0) Resume backup (70da53e2dd13, 0): finish run
+0046.142 (0) Decremented the semaphore (fd) by 1
+0046.144 (0) Semaphore (fd) unlocked
+0046.145 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0046.149 (0) Rescheduling resumption 1: moving to 100 seconds from now (1560887666)
+0046.151 (0) لم ينتهي النسخ الاحتياطي؛ وتم جدولة الأستئناف

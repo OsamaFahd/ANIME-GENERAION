@@ -1,0 +1,27 @@
+RefKidzStudio
+==========================================================================
+Sebelum Install Pastikan Terlebih Dahulu :
+- hosting anda harus Support Player Media
+- Menggunakan PHP 5.6 atau 7 xx
+- Silahkan Sesuaikan Setting PHP Contoh ada di Link ini
+	http://prntscr.com/md7kb8
+==========================================================================
+Cara Instalasi :
+1. Buat Sub Domain terlebih dahulu atau di domain Utama
+	Cattan : Pastikan Fresh Domain Agar Tidak Terjadi Error
+2. upload and extract google.zip
+3. upload db_update.sql ke phpmyadmin
+4. ubah URL http://localhost/google pada tabel setting dengan domain anda di database
+5. setting user database di config.php
+6. login ke : domain.com/admin
+
+User : demo@demo.com
+Pass : 12345678
+Catatan : Untuk Halaman Front End Jika Muncul "Maaf Server Kami Non Aktifkan", 
+itu karena memang di Front End, memang tidak ada akse apapun atau tidak ada reaksi apapun.
+
+===================================================================================
+Cara Merubah Iklan Video SKID AD (VAST) :
+===================================================================================
+ Untuk merubah Skip Ads Lebih Mudah melalui Setting->advertise
+===================================================================================
